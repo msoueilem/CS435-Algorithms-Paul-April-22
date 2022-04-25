@@ -10,8 +10,9 @@ public class problem2 {
         }
         // implement
         for (int i = 1; i < arr.length; i++) {
-            if (arr[i] < smallest) {
-                System.out.printf("");
+            if (arr[i] > smallest) {
+                 System.out.printf("smallest %d second smallest %d\n", smallest, secondSmallest);
+
                 secondSmallest = smallest;
                 smallest = arr[i];
             }
@@ -24,3 +25,4 @@ public class problem2 {
         System.out.println(secondSmallest(b));
     }
 }
+
