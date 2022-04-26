@@ -1,3 +1,5 @@
+package Lab01;
+
 class Problem1 {
 
     public static boolean sumFound(int[] arr, int z) {

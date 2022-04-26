@@ -1,3 +1,5 @@
+package Lab01;
+
 /*
 This method returns the second smallest element of the input array.
 */
