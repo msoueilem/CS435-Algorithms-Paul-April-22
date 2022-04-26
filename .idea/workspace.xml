@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8676d642-c999-4cee-b15f-4db368fb72ff" name="Changes" comment="Problem4 part 1 done.&#10;Problem5 part 1 done.">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8676d642-c999-4cee-b15f-4db368fb72ff" name="Changes" comment="Naming folders and files in Assignment 1A">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +61,11 @@
   </component>
   <component name="RunManager" selected="Application.Problem5">
     <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab01.Problem3" />
+      <option name="MAIN_CLASS_NAME" value="Assignment1A.Problem3" />
       <module name="CS435-Algorithms-Paul-April-22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab01.*" />
+          <option name="PATTERN" value="Assignment1A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +74,11 @@
       </method>
     </configuration>
     <configuration name="Problem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab01.Problem4" />
+      <option name="MAIN_CLASS_NAME" value="Assignment1A.Problem4" />
       <module name="CS435-Algorithms-Paul-April-22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab01.*" />
+          <option name="PATTERN" value="Assignment1A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +87,11 @@
       </method>
     </configuration>
     <configuration name="Problem5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab01.Problem5" />
+      <option name="MAIN_CLASS_NAME" value="Assignment1A.Problem5" />
       <module name="CS435-Algorithms-Paul-April-22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab01.*" />
+          <option name="PATTERN" value="Assignment1A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,7 +104,7 @@
       <module name="CS435-Algorithms-Paul-April-22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab01.*" />
+          <option name="PATTERN" value="Assignment1A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650954875956</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".idea remove">
+      <created>1650955209768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650955209768</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Naming folders and files in Assignment 1A">
+      <created>1650955437576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650955437576</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +180,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Problem4 part 1 done." />
     <MESSAGE value="Problem4 part 1 done.&#10;Problem5 part 1 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem4 part 1 done.&#10;Problem5 part 1 done." />
+    <MESSAGE value=".idea remove" />
+    <MESSAGE value="Naming folders and files in Assignment 1A" />
+    <option name="LAST_COMMIT_MESSAGE" value="Naming folders and files in Assignment 1A" />
   </component>
 </project>
