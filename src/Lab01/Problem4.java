@@ -18,35 +18,30 @@ public class Problem4 {
 
     public static void sort(ArrayList<Integer> list){
         //implement
-        ArrayList<Integer> secondList = new ArrayList<>();
-        int smallest = list.get(0);
-        for (int i = 0; i < list.size()-1; i++) {
-
-            for (int j = 0; j < list.size()-1; j++) {
-                smallest = list.get(i);
-            if (list.get(j) <= smallest) {
-                smallest = list.get(j);
-                secondList.add(list.get(j));
-                list.remove(j);
-//                smallest = list.get(i);
+        ArrayList<Integer> secondList = new ArrayList<Integer>();
+        int smallest;
+        int index=0;
+        System.out.println("List before sorted: "+list.toString());
+        while (list.size()>1) {
+            smallest = list.get(0);
+            for (int i = 0; i < list.size(); i++) {
+                if (list.get(i) < smallest) {
+                    smallest = list.get(i);
+                    index = i;
+                }
             }
-
-            }
+            secondList.add(smallest);
+            list.remove(index);
         }
-        System.out.println(secondList.toString());
-        System.out.println(list.toString());
-    }
-    public static int findSmallest(int[] arr) {
-        int smallest = arr[0];
-        for (int i = 1; i < arr.length; i++) {
-            if (arr[i] > smallest) {
-                smallest = arr[i];
-            }
-        }
-        return smallest;
+        secondList.add(list.get(0));
+        list=secondList;
+        System.out.println("List after  sorted: "+list.toString());
     }
     public static void sort(LinkedList<Integer> list){
         //implement
+        LinkedList<Integer> secondList = new LinkedList<>();
+        System.out.println(secondList.toString());
+        System.out.println(list.toString());
     }
 
     public static void main(String[] args) {
@@ -56,11 +51,21 @@ public class Problem4 {
                 add(3);
                 add(9);
                 add(4);
-                add(8);
                 add(5);
+                add(8);
+            }
+        };
+        LinkedList<Integer> a = new LinkedList<>() {
+            {
+                add(1);
+                add(3);
+                add(9);
+                add(4);
+                add(5);
+                add(8);
             }
         };
         sort(b);
-        System.out.println();
+        sort(a);
     }
 }

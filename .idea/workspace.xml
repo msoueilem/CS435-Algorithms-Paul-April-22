@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8676d642-c999-4cee-b15f-4db368fb72ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab01/Problem4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS435-Algorithms-Paul-April-22.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS435-Algorithms-Paul-April-22.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab01/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab01/Problem3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab01/SampleUsingPowerSetCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab01/problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab01/problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab01/problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab01/problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab01/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab01/Problem4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +47,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imports" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
