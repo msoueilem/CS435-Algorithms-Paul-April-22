@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8676d642-c999-4cee-b15f-4db368fb72ff" name="Changes" comment="Naming folders and files in Assignment 1A">
+      <change afterPath="$PROJECT_DIR$/src/Assignment2A/Problem3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment 2A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment 2A.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem5">
+  <component name="RunManager" selected="Application.Problem3 (1)">
+    <configuration name="Problem3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2A.Problem3" />
+      <module name="CS435-Algorithms-Paul-April-22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment2A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment1A.Problem3" />
       <module name="CS435-Algorithms-Paul-April-22" />
@@ -114,6 +129,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem3 (1)" />
         <item itemvalue="Application.Problem5" />
         <item itemvalue="Application.Problem4" />
         <item itemvalue="Application.Problem3" />

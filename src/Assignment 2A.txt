@@ -4,4 +4,16 @@ Lab 2:
    
 2. O(n^2)
 
-3.
+3. Psuedo Code:
+
+Algorithm merge(arr1,arr2)
+   Input Sorted arrray arr1, and Sorted array arr2
+   Output Sorted array arr
+   lenth <- max(arr1.length, arr2.length)
+   for i <- 0 & j <- 0 to lenth do
+      if arr1[i] > arr2[j]
+         arr.push(arr2[j])
+         else
+            arr.push(arr1[i])
+
+      
