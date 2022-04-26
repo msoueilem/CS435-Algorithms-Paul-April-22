@@ -1,9 +1,9 @@
-package Lab01;
+package Assignment1A;
 
 /**
  * This method returns the second smallest element of the input array.
 **/
-public class problem2 {
+public class Problem2 {
     public static int secondSmallest(int[] arr) {
         int secondSmallest = 0;
         int smallest = arr[0];

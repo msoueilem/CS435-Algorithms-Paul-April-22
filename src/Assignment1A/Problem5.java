@@ -4,7 +4,7 @@
  * program for determining whether z is in arr? If yes, why do you think your solution to (B)
  * is faster?
  */
-package Lab01;
+package Assignment1A;
 
 public class Problem5 {
     public static boolean find(int[] arr, int z) {

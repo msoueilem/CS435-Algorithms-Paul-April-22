@@ -4,7 +4,7 @@
 * Solve the problem by implementing the following Java method.
 **/
 
-package Lab01;
+package Assignment1A;
 
 class Problem1 {
 

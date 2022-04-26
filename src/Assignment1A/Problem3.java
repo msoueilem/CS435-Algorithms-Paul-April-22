@@ -1,4 +1,4 @@
-package Lab01;
+package Assignment1A;
 
 /**
 * Given a list L = [s0, s1, . . ., sn−1] of n distinct positive integers and a non-negative integer k,

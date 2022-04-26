@@ -1,8 +1,7 @@
-package Lab01;
+package Assignment1A;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.List;
 
 /**
  * (A) You are given an ArrayList of Integer objects.
