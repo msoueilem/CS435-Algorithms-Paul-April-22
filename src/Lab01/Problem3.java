@@ -1,5 +1,11 @@
 package Lab01;
 
+/**
+* Given a list L = [s0, s1, . . ., sn−1] of n distinct positive integers and a non-negative integer k,
+* determine whether there is a subset of L the sum of whose values is k.
+* Do this by implementing the following Java method.
+**/
+
 import lab1.powerset.PowerSet;
 
 import java.util.ArrayList;
@@ -10,7 +16,6 @@ public class Problem3 {
 
     public static boolean sumFound(List list, int k) {
         //implement
-
         List<Set<Integer>> powerset = PowerSet.powerSet(list);
         for (Set<Integer> l : powerset) {
             int sum = 0;
@@ -25,7 +30,6 @@ public class Problem3 {
     }
 
     public static void main(String[] args) {
-//        List<Integer> b = List.of( 1,3,9,4,8,5 );
         List<Integer> b = new ArrayList() {
             {
                 add(1);

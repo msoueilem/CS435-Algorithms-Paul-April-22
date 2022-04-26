@@ -1,8 +1,8 @@
 package Lab01;
 
-/*
-This method returns the second smallest element of the input array.
-*/
+/**
+ * This method returns the second smallest element of the input array.
+**/
 public class problem2 {
     public static int secondSmallest(int[] arr) {
         int secondSmallest = 0;

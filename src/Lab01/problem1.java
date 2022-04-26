@@ -1,3 +1,9 @@
+/**
+* Given an array arr of distinct integers and an integer z,
+* determine whether arr contains two distinct numbers x and y so that x + y = z.
+* Solve the problem by implementing the following Java method.
+**/
+
 package Lab01;
 
 class Problem1 {
